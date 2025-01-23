@@ -1,7 +1,7 @@
 import React from 'react'
-  import Image from 'next/image'
-  import { RiSearch2Line } from "react-icons/ri";
-  import { VscSettings } from "react-icons/vsc";
+import Image from 'next/image'
+import { RiSearch2Line } from "react-icons/ri";
+import { VscSettings } from "react-icons/vsc";
 import Link from 'next/link';
 import { IoHeartSharp } from "react-icons/io5";
 import { IoNotifications } from "react-icons/io5";
